@@ -10,3 +10,5 @@
 - [intro](https://github.com/epode4/python_basic/blob/master/01_intro.ipynb)
 
 - [control](https://github.com/epode4/python_basic/blob/master/02_control_of_flow.ipynb)
+
+- [function](https://github.com/epode4/python_basic/blob/master/03_function.ipynb)
